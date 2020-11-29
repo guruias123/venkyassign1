@@ -1,0 +1,110 @@
+<html>
+    <head>
+        <title>
+            assignment
+        </title>
+        <link href="example.css" rel="stylesheet">
+        
+    </head>
+    <body>
+        <div class="header">
+            <div id="logo">
+                e!
+            </div>
+            <div class="account">
+                create account
+            </div>
+            <div class="login">
+                login
+            </div>
+        </div>
+             <h1 style="margin-left: 90px; color: rgb(7, 7, 104);">Breakfast places in Andhra Pradesh</h1>
+             <div id="rise">
+                <img src="C:\Users\Lenovo\Desktop\programs\day3_22nov\day2/breakfast.png" style="height: 40%; width: 15%;border-radius: 20%;margin-left:10px;margin-top: 10px;"/>
+                <div id="heading">
+                    <div><b style="color: rgb(42, 30, 116);">Big Chill Cakery</b> </div>
+                    <div>Fort </div>
+                    <div>Shop 1, Plot D, Samruddhi Complex, Chinchall--</div>
+                </div>
+             
+                <div><hr></div>
+                <div id="heading1">
+                   
+                    <span>CUISINES </span>             <span style="float:right;">Bakery</span>
+                   <div> <span>COST FOR TWO</span>     <span style="float:right;">?700  </span></div>
+    
+                </div>
+             </div>
+             <div id="rise" style="margin-top: 20px;">
+                <img src="C:\Users\Lenovo\Desktop\programs\day3_22nov\day2/breakfast.png" style="height: 40%; width: 15%;border-radius: 20%;margin-left:10px;margin-top: 10px;"/>
+                <div id="heading">
+                    <div><b style="color: rgb(42, 30, 116);">Big Chill Cakery</b> </div>
+                    <div>Fort </div>
+                    <div>Shop 1, Plot D, Samruddhi Complex, Chinchall--</div>
+                </div>
+             
+                <div><hr></div>
+                <div id="heading1">
+                   
+                    <span>CUISINES </span>             <span style="float:right;">Bakery</span>
+                   <div> <span>COST FOR TWO</span>     <span style="float:right;">?700  </span></div>
+    
+                </div>
+             </div>
+        <div class="filter">
+            <div id="index">
+            <h2 style="color: rgb(13, 13, 100);">Filters</h2>
+            <h4 style="color:cornflowerblue ;">select location</h4>
+            <select style="color:cornflowerblue ;">
+                <option>select location</option>
+                <option>chandragiri</option>
+                <option>tirupati</option>
+                <option>chittoor</option>
+                <option>mandapampalli</option>    
+            </select>
+            <h2 style="color: rgb(13, 13, 100);">Cuisine</h2>
+            <div id="style">
+                <div>
+                    <input type="checkbox" value="north indian"/>
+                    <label for="north indian">north indian</label>                  
+                </div>
+                    <input type="checkbox" value="south indian"/>
+                    <label for="south indian">south indian</label>
+                <div>
+                    <input type="checkbox" value=" chinese"/>
+                    <label for=" chinese"> chinese</label>
+                </div>
+                    <input type="checkbox" value=" fast food"/>
+                    <label for="fast food"> fast food</label>
+                <div>
+                    <input type="checkbox" value=" street food"/>
+                    <label for=" street food">street food</label>
+                </div>
+            </div>
+            <h2 style="color: rgb(13, 13, 100);">Cost for two</h2>
+            <div id="right">
+                <div>
+                    <input type="radio"/>
+                    <label for="less than 500">less than ?500</label>
+                </div>
+                    <input type="radio"/>
+                    <label for="less than 500">less than 500</label>
+                <div>
+                    <input type="radio"/>
+                    <label for="less than 500">?500 to ?1000</label>
+                </div>
+                    <input type="radio"/>
+                    <label for="less than 500">?1000 to ?1500</label>
+                <div>
+                    <input type="radio"/>
+                    <label for="less than 500">?2000+</label>
+                </div>
+            </div>   
+        </div>
+        
+    
+    
+    
+       
+    </body>
+</html>

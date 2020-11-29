@@ -1,0 +1,106 @@
+.header
+{
+    height: 60px;
+    width: 100%;
+    background-color: red;
+   
+
+}
+#logo
+{
+    height: 30px;
+    width: 30px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 15px;
+    text-align: center;
+    color: red;
+    background-color: white;
+    float: left;
+}
+.account
+{
+    float: right;
+    font-size: 20px;
+    color: white;
+    margin-right: 30px;
+    margin-top: 14px;
+    border: 1px solid white;
+    padding: 3px 3px 3px;
+    border-radius: 3%;
+    text-align: center;
+}
+.login
+{
+    float: right;
+    font-size: 20px;
+    color: white;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+
+.filter
+{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 90px;
+    height: 75%;
+    width: 15%;
+    box-shadow: 0.1px 0.1px 5px black;
+}
+.stripe
+{
+    background-color: white;
+    margin-top: 15px;
+    box-shadow: 0.1px 0.1px 5px black;
+    height: 30%;
+    width: 75%;
+
+}
+
+#index
+{
+    margin-left: 20px;
+}
+#style
+{
+    color:cornflowerblue ;
+}
+#right
+{
+    color:cornflowerblue ;
+}
+#rise
+{
+    height: 30%;
+    width: 60%;
+    box-shadow:0.1px 0.1px 5px black ;
+    float: right; 
+    margin-right: 15%;  
+
+}
+#photo
+{
+   
+    border-radius: 20%;
+    margin-top: 5px;
+   
+}
+#heading
+{
+    border-radius: 20%;
+    float: right;
+   
+    margin-left: 20px;
+    margin-right: 35%;
+    margin-top: 13px;
+    color: cornflowerblue;
+}
+#heading1
+{
+    margin-right: 70%;
+    margin-left: 2%;
+    color:cornflowerblue ;
+}
